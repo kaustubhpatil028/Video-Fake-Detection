@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+opencv-python
+moviepy
+SpeechRecognition
+transformers
+torch
+pillow
+ollama
+faiss-cpu
+google-generativeai
+wikipedia
+numpy 

@@ -1,0 +1,21 @@
+# Virtual environment
+/venv/
+/backend2/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Uploads and downloads
+/backend2/uploads/
+/backend2/downloads/
+/backend2/frames/
+/backend2/text/
+*.mp4
+*.wav 
